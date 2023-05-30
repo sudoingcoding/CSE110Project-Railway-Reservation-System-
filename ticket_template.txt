@@ -1,0 +1,9 @@
+Ticket Slip
+-----------
+From: {{FROM}}
+To: {{TO}}
+Passenger Name: {{NAME}}
+Payment: {{Pay}}
+Sit No: {{Sit_No}}
+Date of Journey: {{Date}}
+Train Name: {{TRAIN}}
